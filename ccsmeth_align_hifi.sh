@@ -10,4 +10,4 @@
 module load conda-pws
 module load ccsmeth
 
-ccsmeth align_hifi --hifireads reads_file.bam --ref ref_file.fasta --output reads_ref_aligned.bam
+ccsmeth align_hifi PB_reads/COLO829BL/m84039_241016_003403_s3.hifi_reads.bc2027.bam --ref reference/Homo_sapiens.GRCh38.dna.primary_assembly.fasta --output COLO829BL_GRCh38_aligned.bam
