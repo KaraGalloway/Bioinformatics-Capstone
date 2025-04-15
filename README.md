@@ -1,5 +1,6 @@
 # Bioinformatics-Capstone
 Capstone project for Bioinformatics Bachelor's Degree at UVU
+Scripts are found in Master branch
 
 This project involves a pipeline for detecting methylated bases from PacBio sequencing
 1. ccsmeth_align_hifi.sh
